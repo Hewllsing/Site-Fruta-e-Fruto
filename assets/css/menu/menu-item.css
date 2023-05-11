@@ -1,0 +1,11 @@
+.menu__item {
+    list-style: none;
+}
+
+.menu__item:last-child .menu-link {
+    margin: 0;
+}
+.menu__item .ativo {
+    color: #333333;
+    font-weight: bold;
+}
